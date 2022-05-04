@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsFileToMySQLforGit", "NodejsFileToMySQLforGit\NodejsFileToMySQLforGit.njsproj", "{964E5406-CEC8-49F1-921F-6E8CD614D2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964E5406-CEC8-49F1-921F-6E8CD614D2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964E5406-CEC8-49F1-921F-6E8CD614D2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964E5406-CEC8-49F1-921F-6E8CD614D2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964E5406-CEC8-49F1-921F-6E8CD614D2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B391F6DB-30F4-4EF1-96B5-4FED82F79E9A}
+	EndGlobalSection
+EndGlobal

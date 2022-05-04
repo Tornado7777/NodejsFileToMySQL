@@ -1,0 +1,3 @@
+C:\Users\Locky\source\repos\NodeJS\NodejsFileToMySQLForGit\NodejsFileToMySQLforGit\obj\Debug\NodejsFileToMySQLforGit.njsproj.AssemblyReference.cache
+C:\Users\Locky\source\repos\NodeJS\NodejsFileToMySQLForGit\NodejsFileToMySQLforGit\obj\Debug\NodejsFileToMySQLforGit.njsproj.CoreCompileInputs.cache
+C:\Users\Locky\source\repos\NodeJS\NodejsFileToMySQLForGit\NodejsFileToMySQLforGit\bin\Microsoft.NodejsTools.WebRole.dll

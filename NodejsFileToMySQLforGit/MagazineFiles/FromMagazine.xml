@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog>
+  <shop>
+    <name>example.Magazine</name>
+    <url>https://example.Magazine/</url>
+    <currencies>
+
+    </currencies>
+    <categories>
+      <category id="17" parentId="" url="https://example.Magazine/catalogies/men/">Мужчинам</category>
+<category id="18" parentId="" url="https://example.Magazine/catalogies/women/">Женщинам</category>
+<category id="142" parentId="" url="https://example.Magazine/catalogies/interstyle-goods/">О моде</category>
+<category id="84" parentId="17" url="https://example.Magazine/catalogies/men/odezhda/">Одежда</category>
+<category id="85" parentId="17" url="https://example.Magazine/catalogies/men/aksessuary-man/">Аксессуары</category>
+<category id="86" parentId="17" url="https://example.Magazine/catalogies/men/obuv-man/">Обувь</category>
+<category id="114" parentId="17" url="https://example.Magazine/catalogies/men/sumki-man/">Сумки</category>
+<category id="124" parentId="17" url="https://example.Magazine/catalogies/men/sale-m/">Распродажа</category>
+<category id="136" parentId="17" url="https://example.Magazine/catalogies/men/brands-m/">Бренды</category>
+<category id="347" parentId="17" url="https://example.Magazine/catalogies/men/novinki-m/">Новинки</category>
+<category id="626" parentId="17" url="https://example.Magazine/catalogies/men/autlet-m/">Аутлет</category>
+<category id="39" parentId="18" url="https://example.Magazine/catalogies/women/clothes/">Одежда</category>
+<category id="61" parentId="18" url="https://example.Magazine/catalogies/women/aksessuary/">Аксессуары</category>
+<category id="65" parentId="18" url="https://example.Magazine/catalogies/women/sumki/">Сумки</category>
+<category id="71" parentId="18" url="https://example.Magazine/catalogies/women/obuv/">Обувь</category>
+<category id="123" parentId="18" url="https://example.Magazine/catalogies/women/sale-w/">Распродажа</category>
+<category id="125" parentId="18" url="https://example.Magazine/catalogies/women/brands-w/">Бренды</category>
+<category id="346" parentId="18" url="https://example.Magazine/catalogies/women/novinki/">Новинки</category>
+<category id="625" parentId="18" url="https://example.Magazine/catalogies/women/autlet/">Аутлет</category>
+<category id="40" parentId="39" url="https://example.Magazine/catalogies/women/clothes/zhileti/">Жилеты</category>
+<category id="41" parentId="39" url="https://example.Magazine/catalogies/women/clothes/pukhoviki/">Пуховики</category>
+<category id="42" parentId="39" url="https://example.Magazine/catalogies/women/clothes/kurtki/">Куртки</category>
+<category id="43" parentId="39" url="https://example.Magazine/catalogies/women/clothes/plashhi/">Плащи</category>
+<category id="44" parentId="39" url="https://example.Magazine/catalogies/women/clothes/palto/">Пальто</category>
+<category id="45" parentId="39" url="https://example.Magazine/catalogies/women/clothes/dublenki/">Дубленки</category>
+<category id="46" parentId="39" url="https://example.Magazine/catalogies/women/clothes/trikotazh/">Трикотаж</category>
+<category id="47" parentId="39" url="https://example.Magazine/catalogies/women/clothes/shubi_i_meha/">Изделия из меха</category>
+<category id="97" parentId="84" url="https://example.Magazine/catalogies/men/odezhda/dzhinsy-man/">Джинсы</category>
+</categories>
+<offers>
+<offer id="208502">
+			<url>https://example.Magazine/catalogies/women/KARL_LAGERFELD_211w3911--900/</url>
+			<price>13440</price>
+			<oldprice>19200</oldprice>
+			<categoryId>18</categoryId>
+			<picture>https://example.Magazine/upload/iblock/97d/Bez_imeni-22.jpg</picture>
+			<createdAt>2021-07-23 14:13:50</createdAt>
+			<name>Спортивный комплект</name>
+			<description><![CDATA[Тренировочный набор овключает в себя бутылку для воды, эластичные ленты и скакалку. Комплект идеально подходит для занятий дома или в тренажерном зале. Культовый логотип подчеркивает фирменный стиль изделия.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Karlitos</vendor>
+			<vendorCode>asdjlja39898327</vendorCode>
+			<param filter="true" name="модель">комплект для спорта</param>
+		</offer>
+<offer id="137163">
+			<url>https://example.Magazine/catalogies/men/sumki-man/MORESCHI_99501BM_BLACK/</url>
+			<price>50330</price>
+			<oldprice>71900</oldprice>
+			<categoryId>114</categoryId>
+			<picture>https://example.Magazine/upload/iblock/d29/26.02.18-292.jpg</picture>
+			<createdAt>2018-03-07 03:27:08</createdAt>
+			<name>портфель</name>
+			<description><![CDATA[Мужской портфель , идеально сочетающийся с деловым костюмом. Модель с перекидным клапаном выполнена из мягкой телячьей кожи черного цвета с галечным узором на поверхности и дополнена тонкими кожаными вставками по бокам. Изделие с одним основным отделением с карманами по бокам и отсеками для канцтоваров, и внешним карманом на молнии. Портфель имеет короткую ручку и регулируемый плечевой ремень. Параметры: 37,5 см х 28 см х 7 см. Сделано в Италии.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Monmartes</vendor>
+			<vendorCode>BLACK12o973f</vendorCode>
+			<param filter="true" name="модель">портфель</param>
+			<param name="стиль 1">Портфели</param>
+			<param name="стиль 2">Среднего размера</param>
+			<param name="стиль 3">Однотонные</param>
+		</offer>
+<offer id="137167">
+			<url>https://example.Magazine/catalogies/men/sumki-man/MORESCHI_99500BM_BLUE/</url>
+			<price>52290</price>
+			<oldprice>74700</oldprice>
+			<categoryId>114</categoryId>
+			<picture>https://example.Magazine/upload/iblock/d6d/26.02.18-330.jpg</picture>
+			<createdAt>2018-03-07 03:27:09</createdAt>
+			<name>портфель</name>
+			<description><![CDATA[<p>
+	 Элегантный мужской портфель из весенне-летней коллекции изготовлен из плотной кожи с фирменным объемным узором в виде повторяющегося логотипа бренда. Перекидной клапан и боковые поверхности изготовлены из гладкой кожи в темно-синем оттенке. Аксессуар оснащен регулируемым плечевым ремнем длиной 100 см. Внутри просторного общего отделения располагается карман для бумаг, а также карман на молнии и отделение для документов с держателями для письменных принадлежностей. Снаружи общий отсек дополнен карманом открытого типа. Размеры изделия: ширина 37 см, высота 28 см, глубина 7 см. Сделано в Италии.
+</p>]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Monmartes</vendor>
+			<vendorCode>BLUE8908175hf</vendorCode>
+			<param filter="true" name="модель">портфель</param>
+			<param name="стиль 1">Портфели</param>
+			<param name="стиль 2">Среднего размера</param>
+			<param name="стиль 3">Однотонные</param>
+		</offer>
+<offer id="191446">
+			<url>https://example.Magazine/catalogies/women/sumki/VALENTINO_tw0b0g75jms--001/</url>
+			<price>89050</price>
+			<oldprice>178100</oldprice>
+			<categoryId>65</categoryId>
+			<picture>https://example.Magazine/upload/iblock/581/20200518-142.jpg</picture>
+			<createdAt>2020-07-23 15:01:30</createdAt>
+			<name>Сумка из матовой кожи с бахромой и плетеной отделкой</name>
+			<description><![CDATA[Лаконичная сумка выполнена из матовой кожи. Сложный серый оттенок с лиловым подтоном органично дополнит любой повседневный образ. Плетеная ручка и бахрома по краям смягчает строгие геометрические линии аксессуара. Детали: замшевая подкладка, несъемный плечевой ремень, магнитная застежка на кнопку. Сделано в Италии.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Valenttrus</vendor>
+			<vendorCode>kjhfjqwlf2398030</vendorCode>
+			<param filter="true" name="модель">сумка</param>
+			<param name="стиль 1">Однотонные</param>
+			<param name="стиль 2">Маленького размера</param>
+		</offer>
+<offer id="195552">
+			<url>https://example.Magazine/catalogies/women/sumki/MONCLER_5a7000002sjk--999/</url>
+			<price>74640</price>
+			<categoryId>65</categoryId>
+			<picture>https://example.Magazine/upload/iblock/838/20201009-201.jpg</picture>
+			<createdAt>2020-10-13 14:31:49</createdAt>
+			<name>Нейлоновый рюкзак с отделкой из матовой кожи</name>
+			<description><![CDATA[Стильный женский рюкзак создан из водонепроницаемого нейлона в универсальном черном цвете с контрастными белыми вставками. Фирменный спортивный стиль подчеркивают объемные накладные карманы и перекидной клапан с декоративным ремнем на массивном карабине. Широкие регулируемые бретели и верхняя планка на прочной кулиске обеспечивают дополнительный комфорт. Детали: съемный плечевой ремень, отделка из матовой кожи, брендированная фурнитура с серебристым напылением, логотип из фетра.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Monclercris</vendor>
+			<vendorCode>gjhgjhsh12334</vendorCode>
+			<param filter="true" name="модель">рюкзак</param>
+			<param name="стиль 1">Рюкзаки</param>
+			<param name="стиль 2">Большого размера</param>
+		</offer>
+<offer id="197378">
+			<url>https://example.Magazine/catalogies/women/clothes/zhileti/b12414/</url>
+			<price>88900</price>
+			<oldprice>127000</oldprice>
+			<categoryId>40</categoryId>
+			<picture>https://example.Magazine/upload/iblock/7fb/20201125-163.jpg</picture>
+			<createdAt>2020-11-25 15:33:32</createdAt>
+			<name>Двусторонний жилет с мехом лисицы</name>
+			<description><![CDATA[Двусторонний oversize-жилет . Присущий коллекции динамичный стиль придает сочетание двух видов водонепроницаемого нейлона — с напылением оттенка серебра и матового оранжевого. Нижний край регулируется за счет отделки лентой велькро. Съемный капюшон и отстегивающаяся окантовка из меха лисицы на воротнике делают дизайн максимально универсальным. Детали: двойные карманы, двойная линия застежки, наполнитель из пуха и пера. Сделано во Франции.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>HHHHYEYEY</vendor>
+			<vendorCode>hjghhk432jkgkj</vendorCode>
+			<param filter="true" name="модель">жилет</param>
+			<param name="стиль 1">Однотонные</param>
+			<param name="стиль 2">На молнии</param>
+			<param name="стиль 3">Утепленные</param>
+		</offer>
+<offer id="146039">
+			<url>https://example.Magazine/catalogies/men/odezhda/dzhinsy-man/SCISSOR_SCRIPTOR_T72cesare_W5/</url>
+			<price>28300</price>
+			<oldprice>56600</oldprice>
+			<categoryId>97</categoryId>
+			<picture>https://example.Magazine/upload/iblock/d69/T72cesare_W5a.jpg</picture>
+			<createdAt>2018-05-21 03:13:59</createdAt>
+			<name>джинсы</name>
+			<description><![CDATA[Мужские джинсы фирменного прямого кроя. Модель изготовлена в лучших традициях Модного дома — из хлопкового денима синего цвета с легкими потертостями. Модель характеризуется посадкой на талии на притачном поясе и пятью карманами с отсрочкой тамбурным швом. Карман для монет и задний карман декорированы вышитой символикой бренда. Застежка осуществляется на металлическую пуговицу, отполированную вручную. Сделано в Италии.]]></description>
+			<presence>Есть в наличии</presence>
+			<vendor>Scruptor</vendor>
+			<vendorCode>csslkhgkf4323</vendorCode>
+			<param filter="true" name="модель">джинсы</param>
+			<param name="стиль 1">Застежка-молния</param>
+			<param name="стиль 2">Прямые</param>
+		</offer>
+
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-file-to-my-sql",
+  "version": "0.0.0",
+  "description": "NodejsFileToMySQL",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "replace-in-file": "^6.3.2",
+    "xml2json": "^0.12.0"
+  }
+}
